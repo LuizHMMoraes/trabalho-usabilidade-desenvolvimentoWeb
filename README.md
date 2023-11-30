@@ -1,7 +1,6 @@
-# template-repositorio
-Modelo de organização de repositório no GitHub
 # Título do Projeto
 
+Biciclaze
 
 ![Capa do Projeto](https://res.cloudinary.com/djxomm4es/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1701358990/Yelp%20Camp/Biciclaze/f2fc5317-ad0d-45fb-bd69-d66d0f3d3e20_p4oc2i.jpg?_s=public-apps)
 
@@ -43,7 +42,7 @@ Biciclaze é um aplicativo de navegação por GPS em tempo real voltado para usu
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [MongoDB](https://www.mongodb.com/pt-br)
-- [Mapbox] (https://www.mapbox.com/)
+- [Mapbox](https://www.mapbox.com/)
 
 # Contribuição
 
