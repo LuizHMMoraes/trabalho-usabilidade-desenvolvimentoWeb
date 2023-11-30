@@ -47,7 +47,7 @@ Biciclaze é um aplicativo de navegação por GPS em tempo real voltado para usu
 
 # Documentação
 
-- [Documentação completa do tranalho](https://drive.google.com/file/d/180GI86z30fXUrNZczDzx_bVDDWtZqIal/view?usp=sharing)
+- [Documentação completa do trabalho](https://drive.google.com/file/d/180GI86z30fXUrNZczDzx_bVDDWtZqIal/view?usp=sharing)
 
 # Contribuição
 
