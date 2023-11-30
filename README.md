@@ -3,7 +3,7 @@ Modelo de organização de repositório no GitHub
 # Título do Projeto
 
 
-![Capa do Projeto](https://asset.cloudinary.com/djxomm4es/3ff03fef08124e45e50f11313dc2a438)
+![Capa do Projeto](https://res.cloudinary.com/djxomm4es/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1701358990/Yelp%20Camp/Biciclaze/f2fc5317-ad0d-45fb-bd69-d66d0f3d3e20_p4oc2i.jpg?_s=public-apps)
 
 # Sobre o Projeto
 
