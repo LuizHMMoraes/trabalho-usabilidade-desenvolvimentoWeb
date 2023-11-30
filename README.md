@@ -3,7 +3,7 @@ Modelo de organização de repositório no GitHub
 # Título do Projeto
 
 
-![Capa do Projeto](https://console.cloudinary.com/console/c-8517a6b6c49d8ca2aa72da9a5a47af/media_library/folders/c6107241da89540475111094c4cfcb22cf/asset/8ef70b07846d0543af48363067db7b2a/manage?context=manage)
+![Capa do Projeto](f2fc5317-ad0d-45fb-bd69-d66d0f3d3e20_p4oc2i)
 
 # Sobre o Projeto
 
