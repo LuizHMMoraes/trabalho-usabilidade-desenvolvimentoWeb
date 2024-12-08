@@ -9,7 +9,7 @@ Biciclaze
 Biciclaze é um aplicativo de navegação por GPS em tempo real voltado para usuários de bicicletas para ajudar a planejar e guiar o deslocamento, principalmente em cidades, tornando-o mais seguro e informativo. Esse aplicativo se propõe a criar um forte senso colaborativo em sua comunidade através de avisos informativos que os usuários poderão criar no mapa para ajudar outros usuários.
 
 <h4 align="center"> 
-	🚧  Em desenvolvimento . . .
+	
 </h4>
 
 # Índice/Sumário
